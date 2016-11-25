@@ -1,1 +1,3 @@
-# spam_ip_address_list
+# spam IP address list
+---
+collect email spam or hack IP address.
